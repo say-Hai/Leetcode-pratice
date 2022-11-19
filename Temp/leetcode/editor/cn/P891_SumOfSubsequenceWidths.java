@@ -49,7 +49,6 @@ class P891_SumOfSubsequenceWidths {
         Solution solution = new P891_SumOfSubsequenceWidths().new Solution();
     }
 
-
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
         public int sumSubseqWidths(int[] nums) {

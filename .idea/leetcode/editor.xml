@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/../../Leetcode-pratice/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P891_SumOfSubsequenceWidths.md" />
+              <option name="frontendQuestionId" value="leetcode.cn891" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths.java" />
+              <option name="titleSlug" value="sum-of-subsequence-widths" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/P1732_FindTheHighestAltitude.java">
           <value>
             <LeetcodeEditor>
@@ -36,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/P808_SoupServings.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P808_SoupServings.md" />
+              <option name="frontendQuestionId" value="leetcode.cn808" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/P808_SoupServings.java" />
+              <option name="titleSlug" value="soup-servings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths .java">
           <value>
             <LeetcodeEditor>
@@ -66,17 +88,6 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/P1732_FindTheHighestAltitude.java" />
               <option name="titleSlug" value="find-the-highest-altitude" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../Leetcode-pratice/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths .java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P891_SumOfSubsequenceWidths.md" />
-              <option name="frontendQuestionId" value="leetcode.cn891" />
-              <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths.java" />
-              <option name="titleSlug" value="sum-of-subsequence-widths" />
             </LeetcodeEditor>
           </value>
         </entry>

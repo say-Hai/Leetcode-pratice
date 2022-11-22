@@ -1,0 +1,49 @@
+三个必要知识
+
+`gcd(long a, long b)`求最大公约数 辗转相除法，
+`lcm(long a, long b)`求最小公倍数，
+二分查找
+
+从简单情况说起，设有一个数字`i`，从`1`到`i`过程中能整除`a`的数字有`i/a`个
+那么同样的能整除`b`的数字有`i/b`个
+能同时整除`a`和`b`的数字有`i/lcm(a, b)`个，`lcm(a, b)`为`a``b`的最小公倍数，
+
+那么我们就可以知道，数字`n`以下，符合题意的数字有`n/a + n/b - n/lcm(a,b)`个，需要减去多计数一遍的最小公倍数个数
+
+那么接下来就是用二分法来找到这个恰好能符合题意的数字
+
+# 代码
+
+* java
+
+```java
+class Solution {
+    public int nthMagicalNumber(int n, int a, int b) {
+        long mod = (long)(1e9 + 7);
+        long l = 2;
+        long r = (long) n * Math.min(a,b);
+        while (l < r){
+            long mid = l + ((r-l)>>1);
+            if(f(a,b,mid) < n){
+                l = mid + 1;
+            }else{
+                r = mid;
+            }
+        }
+        return (int)(l % mod);
+    }
+
+    long gcd(long a, long b) {
+        return b == 0 ? a : gcd(b, a % b);
+    }
+
+    long lcm(long a, long b) {
+        return (a * b) / gcd(a, b);
+    }
+
+    long f(long a, long b, long x) {
+        return (x / a) + (x / b) - (x / lcm(a, b));
+    }
+}
+```
+

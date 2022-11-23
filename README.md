@@ -8,3 +8,5 @@
 2022-11-21:[808_分汤](Temp/leetcode/editor/cn/P808_SoupServings.java) 中等题 思路：浮点数+ 概率论 + 动态规划
 
 2022-11-22:[878_第 N 个神奇数字](Temp/leetcode/editor/cn/P878_NthMagicalNumber.java) 困难题 思路：最小公约数 + 二分查找
+
+2022-11-23:[1742_盒子中小球的最大数量](Temp/leetcode/editor/cn/P1742_MaximumNumberOfBallsInABox.java) 简单题 思路：HashMap的简单使用

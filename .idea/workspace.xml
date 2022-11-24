@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec0d822f-41f2-4692-9957-d41969c01ea7" name="Changes" comment="2022-11-22：困难题 最小公约数 + 二分查找">
+    <list default="true" id="ec0d822f-41f2-4692-9957-d41969c01ea7" name="Changes" comment="2022-11-23：简单题 HashMap的运用">
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/leetcode/editor/cn/P1742_MaximumNumberOfBallsInABox.java" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/leetcode/editor/cn/P1742_MaximumNumberOfBallsInABox.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +57,61 @@
       <recent name="F:\Z-Editor\Leetcode-pratice" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="P808_SoupServings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P808_SoupServings" />
+  <component name="RunManager" selected="Application.P795_NumberOfSubarraysWithBoundedMaximum (4)">
+    <configuration name="P795_NumberOfSubarraysWithBoundedMaximum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P795_NumberOfSubarraysWithBoundedMaximum" />
+      <module name="Leetcode-pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P795_NumberOfSubarraysWithBoundedMaximum (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P795_NumberOfSubarraysWithBoundedMaximum" />
+      <module name="Leetcode-pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P795_NumberOfSubarraysWithBoundedMaximum (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P795_NumberOfSubarraysWithBoundedMaximum" />
+      <module name="Leetcode-pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P795_NumberOfSubarraysWithBoundedMaximum (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P795_NumberOfSubarraysWithBoundedMaximum" />
+      <module name="Leetcode-pratice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P795_NumberOfSubarraysWithBoundedMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.P795_NumberOfSubarraysWithBoundedMaximum" />
       <module name="Leetcode-pratice" />
       <extension name="coverage">
         <pattern>
@@ -72,7 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P808_SoupServings" />
+        <item itemvalue="Application.P795_NumberOfSubarraysWithBoundedMaximum (4)" />
+        <item itemvalue="Application.P795_NumberOfSubarraysWithBoundedMaximum (3)" />
+        <item itemvalue="Application.P795_NumberOfSubarraysWithBoundedMaximum (2)" />
+        <item itemvalue="Application.P795_NumberOfSubarraysWithBoundedMaximum (1)" />
+        <item itemvalue="Application.P795_NumberOfSubarraysWithBoundedMaximum" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669084406455</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2022-11-23：简单题 HashMap的运用">
+      <created>1669168332769</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669168332769</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2022-11-23：简单题 HashMap的运用">
+      <created>1669169263202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669169263202</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +225,8 @@
     <MESSAGE value="2022-11-21：中等题 动态规划（记忆搜索树）好题！" />
     <MESSAGE value="2022-11-21：中等题 动态规划（记忆搜索树）" />
     <MESSAGE value="2022-11-22：困难题 最小公约数 + 二分查找" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022-11-22：困难题 最小公约数 + 二分查找" />
+    <MESSAGE value="2022-11-23：简单题 HashMap的运用" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-11-23：简单题 HashMap的运用" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

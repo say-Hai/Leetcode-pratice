@@ -84,7 +84,6 @@ class P1742_MaximumNumberOfBallsInABox {
                     max = value;
                 }
             }
-
             return max;
         }
     }

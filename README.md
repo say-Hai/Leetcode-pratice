@@ -10,3 +10,5 @@
 2022-11-22:[878_第 N 个神奇数字](Temp/leetcode/editor/cn/P878_NthMagicalNumber.java) 困难题 思路：最小公约数 + 二分查找
 
 2022-11-23:[1742_盒子中小球的最大数量](Temp/leetcode/editor/cn/P1742_MaximumNumberOfBallsInABox.java) 简单题 思路：HashMap的简单使用
+
+2022-11-24:[795_区间子数组个数](Temp/leetcode/editor/cn/P795_NumberOfSubarraysWithBoundedMaximum.java) 中等题 思路：区间计数法 

@@ -11,4 +11,6 @@
 
 2022-11-23:[1742_盒子中小球的最大数量](Temp/leetcode/editor/cn/P1742_MaximumNumberOfBallsInABox.java) 简单题 思路：HashMap的简单使用
 
-2022-11-24:[795_区间子数组个数](Temp/leetcode/editor/cn/P795_NumberOfSubarraysWithBoundedMaximum.java) 中等题 思路：区间计数法 
+2022-11-24:[795_区间子数组个数](Temp/leetcode/editor/cn/P795_NumberOfSubarraysWithBoundedMaximum.java) 中等题 思路：区间计数法
+
+2022-11-25:[809_情感丰富的文字](Temp/leetcode/editor/cn/P809_ExpressiveWords.java) 中等题 思路：双指针遍历相同子字符串长度

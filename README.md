@@ -14,3 +14,8 @@
 2022-11-24:[795_区间子数组个数](Temp/leetcode/editor/cn/P795_NumberOfSubarraysWithBoundedMaximum.java) 中等题 思路：区间计数法
 
 2022-11-25:[809_情感丰富的文字](Temp/leetcode/editor/cn/P809_ExpressiveWords.java) 中等题 思路：双指针遍历相同子字符串长度
+2022-11-26:休息
+
+2022-11-27:休息
+
+2022-11-28:[813_最大平均值和的分组](Temp/leetcode/editor/cn/P813_LargestSumOfAverages.java) 中等题 动态规划 CV题 （数学证明没看懂）

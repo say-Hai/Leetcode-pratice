@@ -22,3 +22,5 @@
 2022-11-28:[813_最大平均值和的分组](Temp/leetcode/editor/cn/P813_LargestSumOfAverages.java) 中等题 动态规划 CV题 （数学证明没看懂）
 
 2022-11-29:[1758_生成交替二进制字符串的最少操作数](Temp/leetcode/editor/cn/P1758_MinimumChangesToMakeAlternatingBinaryString.java) 简单题 字符串的特性
+
+2022-11-29:hard，不想看

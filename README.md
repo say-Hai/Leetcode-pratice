@@ -24,4 +24,7 @@
 2022-11-29:[1758_生成交替二进制字符串的最少操作数](Temp/leetcode/editor/cn/P1758_MinimumChangesToMakeAlternatingBinaryString.java) 简单题 字符串的特性
 
 2022-11-29:hard，不想看
+
 2022-12-26:[1759_统计同构子字符串的数目](Temp/leetcode/editor/cn/P1759_CountNumberOfHomogenousSubstrings.java) 中等题，字符串的同构子字符串，使用计数法
+
+2022-12-27:[2027_转换字符串的最少操作次数](Temp/leetcode/editor/cn/P2027_MinimumMovesToConvertString.java) 简单题，一次遍历即可解决。

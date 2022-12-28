@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/../../Leetcode-pratice/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P891_SumOfSubsequenceWidths.md" />
+              <option name="frontendQuestionId" value="leetcode.cn891" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths.java" />
+              <option name="titleSlug" value="sum-of-subsequence-widths" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/P1732_FindTheHighestAltitude.java">
           <value>
             <LeetcodeEditor>
@@ -22,6 +33,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/P1742_MaximumNumberOfBallsInABox.java" />
               <option name="titleSlug" value="maximum-number-of-balls-in-a-box" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/P1750_MinimumLengthOfStringAfterDeletingSimilarEnds.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P1750_MinimumLengthOfStringAfterDeletingSimilarEnds.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1750" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/P1750_MinimumLengthOfStringAfterDeletingSimilarEnds.java" />
+              <option name="titleSlug" value="minimum-length-of-string-after-deleting-similar-ends" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -55,6 +77,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/P1_TwoSum.java" />
               <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/P2027_MinimumMovesToConvertString.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P2027_MinimumMovesToConvertString.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2027" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/P2027_MinimumMovesToConvertString.java" />
+              <option name="titleSlug" value="minimum-moves-to-convert-string" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -154,17 +187,6 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/P1732_FindTheHighestAltitude.java" />
               <option name="titleSlug" value="find-the-highest-altitude" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../../Leetcode-pratice/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths .java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P891_SumOfSubsequenceWidths.md" />
-              <option name="frontendQuestionId" value="leetcode.cn891" />
-              <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths.java" />
-              <option name="titleSlug" value="sum-of-subsequence-widths" />
             </LeetcodeEditor>
           </value>
         </entry>

@@ -28,3 +28,7 @@
 2022-12-26:[1759_统计同构子字符串的数目](Temp/leetcode/editor/cn/P1759_CountNumberOfHomogenousSubstrings.java) 中等题，字符串的同构子字符串，使用计数法
 
 2022-12-27:[2027_转换字符串的最少操作次数](Temp/leetcode/editor/cn/P2027_MinimumMovesToConvertString.java) 简单题，一次遍历即可解决。
+
+2022-12-28:[1750_删除字符串两端相同字符后的最短长度](Temp/leetcode/editor/cn/P1750_MinimumLengthOfStringAfterDeletingSimilarEnds.java) 中等题，双指针遍历
+
+2022-12-29:[2032_至少在两个数组中出现的值](Temp/leetcode/editor/cn/P2032_TwoOutOfThree.java) 简单题 哈希计数，不过要考虑边界问题

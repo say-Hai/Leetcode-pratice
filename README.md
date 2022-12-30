@@ -32,3 +32,5 @@
 2022-12-28:[1750_删除字符串两端相同字符后的最短长度](Temp/leetcode/editor/cn/P1750_MinimumLengthOfStringAfterDeletingSimilarEnds.java) 中等题，双指针遍历
 
 2022-12-29:[2032_至少在两个数组中出现的值](Temp/leetcode/editor/cn/P2032_TwoOutOfThree.java) 简单题 哈希计数，不过要考虑边界问题
+
+2022-12-30:[855_考场就座](Temp/leetcode/editor/cn/P855_ExamRoom.java) 中等题 利用TreeSet数据结构来计算

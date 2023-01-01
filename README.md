@@ -36,3 +36,5 @@
 2022-12-30:[855_考场就座](Temp/leetcode/editor/cn/P855_ExamRoom.java) 中等题 利用TreeSet数据结构来计算
 
 2022-12-31:[2037_使每位学生都有座位的最少移动次数](Temp/leetcode/editor/cn/P2037_MinimumNumberOfMovesToSeatEveryone.java) 简单题 简单for循环遍历
+
+2023-01-01:[2351_第一个出现两次的字母](zTemp/leetcode/editor/cn/P2351_FirstLetterToAppearTwice.java)

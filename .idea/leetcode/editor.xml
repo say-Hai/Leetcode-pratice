@@ -102,6 +102,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/P2351_FirstLetterToAppearTwice.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P2351_FirstLetterToAppearTwice.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2351" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/P2351_FirstLetterToAppearTwice.java" />
+              <option name="titleSlug" value="first-letter-to-appear-twice" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/P795_NumberOfSubarraysWithBoundedMaximum.java">
           <value>
             <LeetcodeEditor>

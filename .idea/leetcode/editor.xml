@@ -58,6 +58,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/P1801_NumberOfOrdersInTheBacklog.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P1801_NumberOfOrdersInTheBacklog.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1801" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/P1801_NumberOfOrdersInTheBacklog.java" />
+              <option name="titleSlug" value="number-of-orders-in-the-backlog" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/P1_TwoSum.java">
           <value>
             <LeetcodeEditor>

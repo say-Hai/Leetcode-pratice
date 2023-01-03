@@ -40,3 +40,5 @@
 2023-01-01:[2351_第一个出现两次的字母](Temp/leetcode/editor/cn/P2351_FirstLetterToAppearTwice.java) 简单题 数组遍历
 
 2023-01-02:[1801_积压订单中的订单总数](Temp/leetcode/editor/cn/P1801_NumberOfOrdersInTheBacklog.java) 中等题 Memory Limit Exceeded 内存溢出
+
+2023-01-03:[2042_检查句子中的数字是否递增](Temp/leetcode/editor/cn/P2042_CheckIfNumbersAreAscendingInASentence.java) 简单题 字符串的使用

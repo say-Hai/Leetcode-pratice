@@ -1,0 +1,19 @@
+Index: .idea/leetcode/statistics.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"LeetcodeEditorStatistics\">\r\n    <option name=\"statistics\">\r\n      <map>\r\n        <entry key=\"leetcode.cn\">\r\n          <value>\r\n            <Statistics>\r\n              <option name=\"easy\" value=\"85\" />\r\n              <option name=\"hard\" value=\"10\" />\r\n              <option name=\"medium\" value=\"88\" />\r\n              <option name=\"questionTotal\" value=\"2900\" />\r\n              <option name=\"solvedTotal\" value=\"183\" />\r\n            </Statistics>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/leetcode/statistics.xml b/.idea/leetcode/statistics.xml
+--- a/.idea/leetcode/statistics.xml	(revision 5ff6b08434915099230aa2baa217bbdfd87a1310)
++++ b/.idea/leetcode/statistics.xml	(date 1672843197578)
+@@ -9,7 +9,7 @@
+               <option name="easy" value="85" />
+               <option name="hard" value="10" />
+               <option name="medium" value="88" />
+-              <option name="questionTotal" value="2900" />
++              <option name="questionTotal" value="2901" />
+               <option name="solvedTotal" value="183" />
+             </Statistics>
+           </value>

@@ -66,22 +66,19 @@ class Solution {
 		return l;
     }
 	public boolean valid(int mid, int n, int index, int maxSum) {
-		long numSum = mid;
-		for(int i = 1; i <= index; i++) {
-			if(mid - i > 1) {
-				numSum += mid - i;
-			} else {
-				numSum += 1;
-			}
-		}
-		for(int i = index + 1; i < n; i++) {
-			if(mid - i + index > 1) {
-				numSum += mid - i + index;
-			} else {
-				numSum += 1;
-			}
-		}
+		long leftNum = addNum(mid, index);
+		long rightNum = addNum(mid, n - index - 1);
+		long numSum = mid + leftNum + rightNum;
 		return numSum <= maxSum;
+	}
+	public long addNum(int mid, int length) {
+		if(length + 1 < mid) {//length长度代表左/右侧数组元素个数
+			int small = mid - length;
+			return (long) (mid - 1 + small) * length / 2;//[small,...,mid-1]之和：n*(a1 + an)/2
+		} else {
+			int oneNum = length - mid + 1;//多余1的个数。[1,1,...,1,2,...,mid - 1].其中[1,2,...,mid-1]长度为mid-1，则[1,...,1]长度为 length - (mid - 1).
+			return (long)(mid - 1)*(mid - 1 + 1)/2 + oneNum;
+		}
 	}
 }
 //leetcode submit region end(Prohibit modification and deletion)

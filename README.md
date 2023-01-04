@@ -42,3 +42,5 @@
 2023-01-02:[1801_积压订单中的订单总数](Temp/leetcode/editor/cn/P1801_NumberOfOrdersInTheBacklog.java) 中等题 Memory Limit Exceeded 内存溢出
 
 2023-01-03:[2042_检查句子中的数字是否递增](Temp/leetcode/editor/cn/P2042_CheckIfNumbersAreAscendingInASentence.java) 简单题 字符串的使用
+
+2023-01-04:[1802_有界数组中指定下标处的最大值](Temp/leetcode/editor/cn/P1802_MaximumValueAtAGivenIndexInABoundedArray.java) 中等题 二分法的使用

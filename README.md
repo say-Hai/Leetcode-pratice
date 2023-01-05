@@ -44,3 +44,5 @@
 2023-01-03:[2042_检查句子中的数字是否递增](Temp/leetcode/editor/cn/P2042_CheckIfNumbersAreAscendingInASentence.java) 简单题 字符串的使用
 
 2023-01-04:[1802_有界数组中指定下标处的最大值](Temp/leetcode/editor/cn/P1802_MaximumValueAtAGivenIndexInABoundedArray.java) 中等题 二分法的使用
+
+2023-01-05:[1803_统计异或值在范围内的数对有多少](Temp/leetcode/editor/cn/P1803_CountPairsWithXorInARange.java) 难题， 关于异或的计算， 放弃

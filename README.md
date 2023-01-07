@@ -48,3 +48,7 @@
 2023-01-05:[1803_统计异或值在范围内的数对有多少](Temp/leetcode/editor/cn/P1803_CountPairsWithXorInARange.java) 难题， 关于异或的计算， 放弃
 
 2023-01-06:[2180_统计各位数字之和为偶数的整数个数](Temp/leetcode/editor/cn/P2180_CountIntegersWithEvenDigitSum.java) 简单题 求数字各位之和。
+
+2023-01-07:[1658_将 x 减到 0 的最小操作数](Temp/leetcode/editor/cn/P1658_MinimumOperationsToReduceXToZero.java) 中等题，滑动窗口+逆向思维
+
+2023-01-08:[2185_统计包含给定前缀的字符串](Temp/leetcode/editor/cn/P2185_CountingWordsWithAGivenPrefix.java) 简单题， substring方法的使用

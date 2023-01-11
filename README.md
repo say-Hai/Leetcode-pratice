@@ -60,3 +60,6 @@
 2023-01-09:[1806_还原排列的最少操作步数](Temp/leetcode/editor/cn/P1806_MinimumNumberOfOperationsToReinitializeAPermutation.java) 中等题 暴力破解
 
 2023-01-10:困难题，CV
+
+2023-01-11:[2283_判断一个数的数字计数是否等于数位的值](Temp/leetcode/editor/cn/P2283_CheckIfNumberHasEqualDigitCountAndDigitValue.java) 简单题 哈希表
+

@@ -1,0 +1,299 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>### Leetcode-pratice\r\n~~2022-11-18:[891_子序列宽度之和](Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths.java)  hard CV~~\r\n\r\n2022-11-19:[1732_找到最高海拔](Temp/leetcode/editor/cn/P1732_FindTheHighestAltitude.java) easy 一次遍历\r\n\r\n2022-11-20:[799_香槟塔](Temp/leetcode/editor/cn/P799_ChampagneTower.java)  中等题 思路：动态规划+模拟流程\r\n\r\n2022-11-21:[808_分汤](Temp/leetcode/editor/cn/P808_SoupServings.java) 中等题 思路：浮点数+ 概率论 + 动态规划\r\n\r\n2022-11-22:[878_第 N 个神奇数字](Temp/leetcode/editor/cn/P878_NthMagicalNumber.java) 困难题 思路：最小公约数 + 二分查找\r\n\r\n2022-11-23:[1742_盒子中小球的最大数量](Temp/leetcode/editor/cn/P1742_MaximumNumberOfBallsInABox.java) 简单题 思路：HashMap的简单使用\r\n\r\n2022-11-24:[795_区间子数组个数](Temp/leetcode/editor/cn/P795_NumberOfSubarraysWithBoundedMaximum.java) 中等题 思路：区间计数法\r\n\r\n2022-11-25:[809_情感丰富的文字](Temp/leetcode/editor/cn/P809_ExpressiveWords.java) 中等题 思路：双指针遍历相同子字符串长度\r\n\r\n2022-11-26:休息\r\n\r\n2022-11-27:休息\r\n\r\n2022-11-28:[813_最大平均值和的分组](Temp/leetcode/editor/cn/P813_LargestSumOfAverages.java) 中等题 动态规划 CV题 （数学证明没看懂）\r\n\r\n2022-11-29:[1758_生成交替二进制字符串的最少操作数](Temp/leetcode/editor/cn/P1758_MinimumChangesToMakeAlternatingBinaryString.java) 简单题 字符串的特性\r\n\r\n2022-11-29:hard，不想看\r\n\r\n2022-12-26:[1759_统计同构子字符串的数目](Temp/leetcode/editor/cn/P1759_CountNumberOfHomogenousSubstrings.java) 中等题，字符串的同构子字符串，使用计数法\r\n\r\n2022-12-27:[2027_转换字符串的最少操作次数](Temp/leetcode/editor/cn/P2027_MinimumMovesToConvertString.java) 简单题，一次遍历即可解决。\r\n\r\n2022-12-28:[1750_删除字符串两端相同字符后的最短长度](Temp/leetcode/editor/cn/P1750_MinimumLengthOfStringAfterDeletingSimilarEnds.java) 中等题，双指针遍历\r\n\r\n2022-12-29:[2032_至少在两个数组中出现的值](Temp/leetcode/editor/cn/P2032_TwoOutOfThree.java) 简单题 哈希计数，不过要考虑边界问题\r\n\r\n2022-12-30:[855_考场就座](Temp/leetcode/editor/cn/P855_ExamRoom.java) 中等题 利用TreeSet数据结构来计算\r\n\r\n2022-12-31:[2037_使每位学生都有座位的最少移动次数](Temp/leetcode/editor/cn/P2037_MinimumNumberOfMovesToSeatEveryone.java) 简单题 简单for循环遍历\r\n\r\n2023-01-01:[2351_第一个出现两次的字母](Temp/leetcode/editor/cn/P2351_FirstLetterToAppearTwice.java) 简单题 数组遍历\r\n\r\n2023-01-02:[1801_积压订单中的订单总数](Temp/leetcode/editor/cn/P1801_NumberOfOrdersInTheBacklog.java) 中等题 Memory Limit Exceeded 内存溢出\r\n\r\n2023-01-03:[2042_检查句子中的数字是否递增](Temp/leetcode/editor/cn/P2042_CheckIfNumbersAreAscendingInASentence.java) 简单题 字符串的使用\r\n\r\n2023-01-04:[1802_有界数组中指定下标处的最大值](Temp/leetcode/editor/cn/P1802_MaximumValueAtAGivenIndexInABoundedArray.java) 中等题 二分法的使用\r\n\r\n2023-01-05:[1803_统计异或值在范围内的数对有多少](Temp/leetcode/editor/cn/P1803_CountPairsWithXorInARange.java) 难题， 关于异或的计算， 放弃\r\n\r\n2023-01-06:[2180_统计各位数字之和为偶数的整数个数](Temp/leetcode/editor/cn/P2180_CountIntegersWithEvenDigitSum.java) 简单题 求数字各位之和。\r\n\r\n2023-01-07:[1658_将 x 减到 0 的最小操作数](Temp/leetcode/editor/cn/P1658_MinimumOperationsToReduceXToZero.java) 中等题，滑动窗口+逆向思维\r\n\r\n2023-01-08:[2185_统计包含给定前缀的字符串](Temp/leetcode/editor/cn/P2185_CountingWordsWithAGivenPrefix.java) 简单题， substring方法的使用\r\n\r\n2023-01-07:[1658_将 x 减到 0 的最小操作数](Temp/leetcode/editor/cn/P1658_MinimumOperationsToReduceXToZero.java) 中等题，滑动窗口+逆向思维\r\n\r\n2023-01-08:[2185_统计包含给定前缀的字符串](Temp/leetcode/editor/cn/P2185_CountingWordsWithAGivenPrefix.java) 简单题\r\n\r\n2023-01-09:[1806_还原排列的最少操作步数](Temp/leetcode/editor/cn/P1806_MinimumNumberOfOperationsToReinitializeAPermutation.java) 中等题 暴力破解
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 9ffc439861e1a27bf02df9b69b639991e433e896)
++++ b/README.md	(date 1673444538008)
+@@ -57,4 +57,6 @@
+ 
+ 2023-01-08:[2185_统计包含给定前缀的字符串](Temp/leetcode/editor/cn/P2185_CountingWordsWithAGivenPrefix.java) 简单题
+ 
+-2023-01-09:[1806_还原排列的最少操作步数](Temp/leetcode/editor/cn/P1806_MinimumNumberOfOperationsToReinitializeAPermutation.java) 中等题 暴力破解
+\ No newline at end of file
++2023-01-09:[1806_还原排列的最少操作步数](Temp/leetcode/editor/cn/P1806_MinimumNumberOfOperationsToReinitializeAPermutation.java) 中等题 暴力破解
++
++2023-01-11:[2283_判断一个数的数字计数是否等于数位的值](Temp/leetcode/editor/cn/P2283_CheckIfNumberHasEqualDigitCountAndDigitValue.java) 简单题 哈希表
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_2023_1_3_17_29__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_2023_1_3_17_29__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_2023_1_3_17_29__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_2023_1_3_17_29__Changes_.xml	(revision 9ffc439861e1a27bf02df9b69b639991e433e896)
++++ /dev/null	(revision 9ffc439861e1a27bf02df9b69b639991e433e896)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_2023_1_3_17_29_[Changes]" date="1672738157008" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2023_1_3_17_29_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2023/1/3 17:29 [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_2023_1_3_17_29_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_2023_1_3_17_29_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_2023_1_3_17_29_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_2023_1_3_17_29_[Changes]/shelved.patch	(revision 9ffc439861e1a27bf02df9b69b639991e433e896)
++++ /dev/null	(revision 9ffc439861e1a27bf02df9b69b639991e433e896)
+@@ -1,49 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"ec0d822f-41f2-4692-9957-d41969c01ea7\" name=\"Changes\" comment=\"2022-12-29：简单题 哈希计数\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/leetcode/editor.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/leetcode/editor.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/leetcode/statistics.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/leetcode/statistics.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/README.md\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/README.md\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GithubProjectSettings\">\r\n    <option name=\"branchProtectionPatterns\">\r\n      <list>\r\n        <option value=\"Lemon\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Hi3YYw4Z5BAMzwixe0d1tZrLfl\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;F:/Z-Editor/Leetcode-pratice&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,\r\n    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,\r\n    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"F:\\Z-Editor\\Leetcode-pratice\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.P795_NumberOfSubarraysWithBoundedMaximum (4)\">\r\n    <configuration name=\"P795_NumberOfSubarraysWithBoundedMaximum (1)\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"leetcode.editor.cn.P795_NumberOfSubarraysWithBoundedMaximum\" />\r\n      <module name=\"Leetcode-pratice\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"leetcode.editor.cn.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"P795_NumberOfSubarraysWithBoundedMaximum (2)\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"leetcode.editor.cn.P795_NumberOfSubarraysWithBoundedMaximum\" />\r\n      <module name=\"Leetcode-pratice\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"leetcode.editor.cn.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"P795_NumberOfSubarraysWithBoundedMaximum (3)\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"leetcode.editor.cn.P795_NumberOfSubarraysWithBoundedMaximum\" />\r\n      <module name=\"Leetcode-pratice\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"leetcode.editor.cn.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"P795_NumberOfSubarraysWithBoundedMaximum (4)\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"leetcode.editor.cn.P795_NumberOfSubarraysWithBoundedMaximum\" />\r\n      <module name=\"Leetcode-pratice\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"leetcode.editor.cn.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"P795_NumberOfSubarraysWithBoundedMaximum\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"leetcode.editor.cn.P795_NumberOfSubarraysWithBoundedMaximum\" />\r\n      <module name=\"Leetcode-pratice\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"leetcode.editor.cn.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.P795_NumberOfSubarraysWithBoundedMaximum\" />\r\n        <item itemvalue=\"Application.P795_NumberOfSubarraysWithBoundedMaximum (4)\" />\r\n        <item itemvalue=\"Application.P795_NumberOfSubarraysWithBoundedMaximum (3)\" />\r\n        <item itemvalue=\"Application.P795_NumberOfSubarraysWithBoundedMaximum (2)\" />\r\n        <item itemvalue=\"Application.P795_NumberOfSubarraysWithBoundedMaximum (1)\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"ec0d822f-41f2-4692-9957-d41969c01ea7\" name=\"Changes\" comment=\"\" />\r\n      <created>1668754124368</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1668754124368</updated>\r\n      <workItem from=\"1668833313712\" duration=\"57000\" />\r\n      <workItem from=\"1668833420427\" duration=\"659000\" />\r\n      <workItem from=\"1668834094074\" duration=\"2879000\" />\r\n      <workItem from=\"1668911988629\" duration=\"3863000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"2022-11-18：困难题\">\r\n      <created>1668755426511</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668755426511</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"2022-11-18：困难题\">\r\n      <created>1668756185677</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668756185677</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"2022-11-19: 简单题\">\r\n      <created>1668836403372</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668836403372</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"2022-11-21：中等题 动态规划（记忆搜索树）好题！\">\r\n      <created>1669000707308</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669000707308</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"2022-11-21：中等题 动态规划（记忆搜索树）\">\r\n      <created>1669001238105</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669001238105</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"2022-11-22：困难题 最小公约数 + 二分查找\">\r\n      <created>1669084406455</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669084406455</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"2022-11-23：简单题 HashMap的运用\">\r\n      <created>1669168332769</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669168332769</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"2022-11-23：简单题 HashMap的运用\">\r\n      <created>1669169263202</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669169263202</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"2022-11-24：中等题 区间计数法\">\r\n      <created>1669261713614</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669261713614</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"2022-11-24：中等题 区间计数法\">\r\n      <created>1669261724873</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669261724873</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"2022-11-24：中等题 区间计数法\">\r\n      <created>1669261744093</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669261744093</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"2022-11-25：中等题 双指针遍历\">\r\n      <created>1669341523967</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669341523967</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"2022-11-28：中等题 动态规划\">\r\n      <created>1669601669466</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1669601669466</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"2022-12-27：简单题 一次遍历\">\r\n      <created>1672107171409</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1672107171409</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"2022-12-28：中等题 双指针遍历\">\r\n      <created>1672194027300</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1672194027300</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"2022-12-29：简单题 哈希计数\">\r\n      <created>1672306186934</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1672306186934</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"17\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"2022-11-18：困难题\" />\r\n    <MESSAGE value=\"2022-11-19: 简单题\" />\r\n    <MESSAGE value=\"2022-11-21：中等题 动态规划（记忆搜索树）好题！\" />\r\n    <MESSAGE value=\"2022-11-21：中等题 动态规划（记忆搜索树）\" />\r\n    <MESSAGE value=\"2022-11-22：困难题 最小公约数 + 二分查找\" />\r\n    <MESSAGE value=\"2022-11-23：简单题 HashMap的运用\" />\r\n    <MESSAGE value=\"2022-11-24：中等题 区间计数法\" />\r\n    <MESSAGE value=\"2022-11-25：中等题 双指针遍历\" />\r\n    <MESSAGE value=\"2022-11-28：中等题 动态规划\" />\r\n    <MESSAGE value=\"2022-12-27：简单题 一次遍历\" />\r\n    <MESSAGE value=\"2022-12-28：中等题 双指针遍历\" />\r\n    <MESSAGE value=\"2022-12-29：简单题 哈希计数\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"2022-12-29：简单题 哈希计数\" />\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision e82c7639a5bb8e40cb754fe47eab025c8902707f)
+-+++ b/.idea/workspace.xml	(date 1672366820716)
+-@@ -4,11 +4,8 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="ec0d822f-41f2-4692-9957-d41969c01ea7" name="Changes" comment="2022-12-29：简单题 哈希计数">
+--      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+-+    <list default="true" id="ec0d822f-41f2-4692-9957-d41969c01ea7" name="Changes" comment="2022-12-30：中等题 TreeSet树结构的使用">
+-       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-@@ -258,7 +255,14 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1672306186934</updated>
+-     </task>
+--    <option name="localTasksCounter" value="17" />
+-+    <task id="LOCAL-00017" summary="2022-12-30：中等题 TreeSet树结构的使用">
+-+      <created>1672366524549</created>
+-+      <option name="number" value="00017" />
+-+      <option name="presentableId" value="LOCAL-00017" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1672366524549</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="18" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -288,7 +292,8 @@
+-     <MESSAGE value="2022-12-27：简单题 一次遍历" />
+-     <MESSAGE value="2022-12-28：中等题 双指针遍历" />
+-     <MESSAGE value="2022-12-29：简单题 哈希计数" />
+--    <option name="LAST_COMMIT_MESSAGE" value="2022-12-29：简单题 哈希计数" />
+-+    <MESSAGE value="2022-12-30：中等题 TreeSet树结构的使用" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="2022-12-30：中等题 TreeSet树结构的使用" />
+-   </component>
+-   <component name="XSLT-Support.FileAssociations.UIState">
+-     <expand />
+Index: Temp/leetcode/editor/cn/P2283_CheckIfNumberHasEqualDigitCountAndDigitValue.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Temp/leetcode/editor/cn/P2283_CheckIfNumberHasEqualDigitCountAndDigitValue.java b/Temp/leetcode/editor/cn/P2283_CheckIfNumberHasEqualDigitCountAndDigitValue.java
+new file mode 100644
+--- /dev/null	(date 1673444115075)
++++ b/Temp/leetcode/editor/cn/P2283_CheckIfNumberHasEqualDigitCountAndDigitValue.java	(date 1673444115075)
+@@ -0,0 +1,94 @@
++//给你一个下标从 0 开始长度为 n 的字符串 num ，它只包含数字。 
++//
++// 如果对于 每个 0 <= i < n 的下标 i ，都满足数位 i 在 num 中出现了 num[i]次，那么请你返回 true ，否则返回 false 
++//。 
++//
++// 
++//
++// 示例 1： 
++//
++// 
++//输入：num = "1210"
++//输出：true
++//解释：
++//num[0] = '1' 。数字 0 在 num 中出现了一次。
++//num[1] = '2' 。数字 1 在 num 中出现了两次。
++//num[2] = '1' 。数字 2 在 num 中出现了一次。
++//num[3] = '0' 。数字 3 在 num 中出现了零次。
++//"1210" 满足题目要求条件，所以返回 true 。
++// 
++//
++// 示例 2： 
++//
++// 
++//输入：num = "030"
++//输出：false
++//解释：
++//num[0] = '0' 。数字 0 应该出现 0 次，但是在 num 中出现了两次。
++//num[1] = '3' 。数字 1 应该出现 3 次，但是在 num 中出现了零次。
++//num[2] = '0' 。数字 2 在 num 中出现了 0 次。
++//下标 0 和 1 都违反了题目要求，所以返回 false 。
++// 
++//
++// 
++//
++// 提示： 
++//
++// 
++// n == num.length 
++// 1 <= n <= 10 
++// num 只包含数字。 
++// 
++//
++// Related Topics 哈希表 字符串 计数 👍 51 👎 0
++
++
++package leetcode.editor.cn;
++
++import java.util.HashMap;
++
++/**
++ * 2283_判断一个数的数字计数是否等于数位的值
++ * @author Lemon
++ * @date 2023-01-11 20:57:48
++ */
++public class P2283_CheckIfNumberHasEqualDigitCountAndDigitValue{
++	 public static void main(String[] args) {
++	 	 //测试代码
++	 	 Solution solution = new P2283_CheckIfNumberHasEqualDigitCountAndDigitValue().new Solution();
++	 }
++	 
++//leetcode submit region begin(Prohibit modification and deletion)
++class Solution {
++    public boolean digitCount(String num) {
++		HashMap<Character, Integer> map = new HashMap<>();
++		for(int i = 0; i < num.length(); i++) {
++			if(!map.containsKey(num.charAt(i))) {
++				map.put(num.charAt(i), 1);
++			} else {
++				map.put(num.charAt(i), map.get(num.charAt(i)) + 1);
++			}
++		}
++		for(int i = 0; i < num.length(); i++) {
++			char c = (char)(i + '0');
++			System.out.println(map.get(c) +  " " + num.charAt(i));
++			if(!map.containsKey(c)) {
++				if((num.charAt(i) - '0') != 0) {
++					return false;
++				} else {
++					continue;
++				}
++			}
++
++			else {
++				if(map.get(c) != (num.charAt(i) - '0')) {
++					return false;
++				}
++			}
++		}
++		return true;
++    }
++}
++//leetcode submit region end(Prohibit modification and deletion)
++
++}
+\ No newline at end of file
+Index: Temp/leetcode/editor/cn/doc/content/P2283_CheckIfNumberHasEqualDigitCountAndDigitValue.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Temp/leetcode/editor/cn/doc/content/P2283_CheckIfNumberHasEqualDigitCountAndDigitValue.md b/Temp/leetcode/editor/cn/doc/content/P2283_CheckIfNumberHasEqualDigitCountAndDigitValue.md
+new file mode 100644
+--- /dev/null	(date 1673441868849)
++++ b/Temp/leetcode/editor/cn/doc/content/P2283_CheckIfNumberHasEqualDigitCountAndDigitValue.md	(date 1673441868849)
+@@ -0,0 +1,42 @@
++<p>给你一个下标从 <strong>0</strong>&nbsp;开始长度为 <code>n</code>&nbsp;的字符串&nbsp;<code>num</code>&nbsp;，它只包含数字。</p>
++
++<p>如果对于 <strong>每个</strong><em>&nbsp;</em><code>0 &lt;= i &lt; n</code>&nbsp;的下标&nbsp;<code>i</code>&nbsp;，都满足数位<em>&nbsp;</em><code>i</code>&nbsp;在 <code>num</code>&nbsp;中出现了&nbsp;<code>num[i]</code>次，那么请你返回&nbsp;<code>true</code>&nbsp;，否则返回&nbsp;<code>false</code>&nbsp;。</p>
++
++<p>&nbsp;</p>
++
++<p><strong>示例 1：</strong></p>
++
++<pre>
++<b>输入：</b>num = "1210"
++<b>输出：</b>true
++<strong>解释：</strong>
++num[0] = '1' 。数字 0 在 num 中出现了一次。
++num[1] = '2' 。数字 1 在 num 中出现了两次。
++num[2] = '1' 。数字 2 在 num 中出现了一次。
++num[3] = '0' 。数字 3 在 num 中出现了零次。
++"1210" 满足题目要求条件，所以返回 true 。
++</pre>
++
++<p><strong>示例 2：</strong></p>
++
++<pre>
++<b>输入：</b>num = "030"
++<b>输出：</b>false
++<strong>解释：</strong>
++num[0] = '0' 。数字 0 应该出现 0 次，但是在 num 中出现了两次。
++num[1] = '3' 。数字 1 应该出现 3 次，但是在 num 中出现了零次。
++num[2] = '0' 。数字 2 在 num 中出现了 0 次。
++下标 0 和 1 都违反了题目要求，所以返回 false 。
++</pre>
++
++<p>&nbsp;</p>
++
++<p><strong>提示：</strong></p>
++
++<ul> 
++ <li><code>n == num.length</code></li> 
++ <li><code>1 &lt;= n &lt;= 10</code></li> 
++ <li><code>num</code>&nbsp;只包含数字。</li> 
++</ul>
++
++<div><div>Related Topics</div><div><li>哈希表</li><li>字符串</li><li>计数</li></div></div><br><div><li>👍 51</li><li>👎 0</li></div>
+\ No newline at end of file
+Index: .idea/leetcode/editor.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"LeetcodeEditor\">\r\n    <option name=\"projectConfig\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1658_MinimumOperationsToReduceXToZero.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P1658_MinimumOperationsToReduceXToZero.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn1658\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1658_MinimumOperationsToReduceXToZero.java\" />\r\n              <option name=\"titleSlug\" value=\"minimum-operations-to-reduce-x-to-zero\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1732_FindTheHighestAltitude.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P1732_FindTheHighestAltitude.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn1732\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1732_FindTheHighestAltitude.java\" />\r\n              <option name=\"titleSlug\" value=\"find-the-highest-altitude\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1742_MaximumNumberOfBallsInABox.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P1742_MaximumNumberOfBallsInABox.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn1742\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1742_MaximumNumberOfBallsInABox.java\" />\r\n              <option name=\"titleSlug\" value=\"maximum-number-of-balls-in-a-box\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1750_MinimumLengthOfStringAfterDeletingSimilarEnds.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P1750_MinimumLengthOfStringAfterDeletingSimilarEnds.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn1750\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1750_MinimumLengthOfStringAfterDeletingSimilarEnds.java\" />\r\n              <option name=\"titleSlug\" value=\"minimum-length-of-string-after-deleting-similar-ends\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1758_MinimumChangesToMakeAlternatingBinaryString.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P1758_MinimumChangesToMakeAlternatingBinaryString.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn1758\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1758_MinimumChangesToMakeAlternatingBinaryString.java\" />\r\n              <option name=\"titleSlug\" value=\"minimum-changes-to-make-alternating-binary-string\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1759_CountNumberOfHomogenousSubstrings.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P1759_CountNumberOfHomogenousSubstrings.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn1759\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1759_CountNumberOfHomogenousSubstrings.java\" />\r\n              <option name=\"titleSlug\" value=\"count-number-of-homogenous-substrings\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1801_NumberOfOrdersInTheBacklog.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P1801_NumberOfOrdersInTheBacklog.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn1801\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1801_NumberOfOrdersInTheBacklog.java\" />\r\n              <option name=\"titleSlug\" value=\"number-of-orders-in-the-backlog\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1802_MaximumValueAtAGivenIndexInABoundedArray.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P1802_MaximumValueAtAGivenIndexInABoundedArray.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn1802\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1802_MaximumValueAtAGivenIndexInABoundedArray.java\" />\r\n              <option name=\"titleSlug\" value=\"maximum-value-at-a-given-index-in-a-bounded-array\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1806_MinimumNumberOfOperationsToReinitializeAPermutation.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P1806_MinimumNumberOfOperationsToReinitializeAPermutation.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn1806\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1806_MinimumNumberOfOperationsToReinitializeAPermutation.java\" />\r\n              <option name=\"titleSlug\" value=\"minimum-number-of-operations-to-reinitialize-a-permutation\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1_TwoSum.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P1_TwoSum.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn1\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1_TwoSum.java\" />\r\n              <option name=\"titleSlug\" value=\"two-sum\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P2027_MinimumMovesToConvertString.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P2027_MinimumMovesToConvertString.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn2027\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P2027_MinimumMovesToConvertString.java\" />\r\n              <option name=\"titleSlug\" value=\"minimum-moves-to-convert-string\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P2032_TwoOutOfThree.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P2032_TwoOutOfThree.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn2032\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P2032_TwoOutOfThree.java\" />\r\n              <option name=\"titleSlug\" value=\"two-out-of-three\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P2037_MinimumNumberOfMovesToSeatEveryone.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P2037_MinimumNumberOfMovesToSeatEveryone.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn2037\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P2037_MinimumNumberOfMovesToSeatEveryone.java\" />\r\n              <option name=\"titleSlug\" value=\"minimum-number-of-moves-to-seat-everyone\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P2042_CheckIfNumbersAreAscendingInASentence.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P2042_CheckIfNumbersAreAscendingInASentence.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn2042\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P2042_CheckIfNumbersAreAscendingInASentence.java\" />\r\n              <option name=\"titleSlug\" value=\"check-if-numbers-are-ascending-in-a-sentence\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P2185_CountingWordsWithAGivenPrefix.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P2185_CountingWordsWithAGivenPrefix.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn2185\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P2185_CountingWordsWithAGivenPrefix.java\" />\r\n              <option name=\"titleSlug\" value=\"counting-words-with-a-given-prefix\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P2351_FirstLetterToAppearTwice.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P2351_FirstLetterToAppearTwice.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn2351\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P2351_FirstLetterToAppearTwice.java\" />\r\n              <option name=\"titleSlug\" value=\"first-letter-to-appear-twice\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P795_NumberOfSubarraysWithBoundedMaximum.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P795_NumberOfSubarraysWithBoundedMaximum.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn795\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P795_NumberOfSubarraysWithBoundedMaximum.java\" />\r\n              <option name=\"titleSlug\" value=\"number-of-subarrays-with-bounded-maximum\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P799_ChampagneTower.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P799_ChampagneTower.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn799\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P799_ChampagneTower.java\" />\r\n              <option name=\"titleSlug\" value=\"champagne-tower\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P808_SoupServings.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P808_SoupServings.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn808\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P808_SoupServings.java\" />\r\n              <option name=\"titleSlug\" value=\"soup-servings\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P809_ExpressiveWords.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P809_ExpressiveWords.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn809\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P809_ExpressiveWords.java\" />\r\n              <option name=\"titleSlug\" value=\"expressive-words\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P813_LargestSumOfAverages.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P813_LargestSumOfAverages.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn813\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P813_LargestSumOfAverages.java\" />\r\n              <option name=\"titleSlug\" value=\"largest-sum-of-averages\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P855_ExamRoom.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P855_ExamRoom.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn855\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P855_ExamRoom.java\" />\r\n              <option name=\"titleSlug\" value=\"exam-room\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P878_NthMagicalNumber.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P878_NthMagicalNumber.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn878\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P878_NthMagicalNumber.java\" />\r\n              <option name=\"titleSlug\" value=\"nth-magical-number\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths .java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P891_SumOfSubsequenceWidths.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn891\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths.java\" />\r\n              <option name=\"titleSlug\" value=\"sum-of-subsequence-widths\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P891_SumOfSubsequenceWidths.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn891\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths.java\" />\r\n              <option name=\"titleSlug\" value=\"sum-of-subsequence-widths\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/[1732]找到最高海拔.java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P1732_FindTheHighestAltitude.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn1732\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P1732_FindTheHighestAltitude.java\" />\r\n              <option name=\"titleSlug\" value=\"find-the-highest-altitude\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"$PROJECT_DIR$/../../Leetcode-pratice/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths .java\">\r\n          <value>\r\n            <LeetcodeEditor>\r\n              <option name=\"contentPath\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P891_SumOfSubsequenceWidths.md\" />\r\n              <option name=\"frontendQuestionId\" value=\"leetcode.cn891\" />\r\n              <option name=\"host\" value=\"leetcode.cn\" />\r\n              <option name=\"path\" value=\"$PROJECT_DIR$/Temp/leetcode/editor/cn/P891_SumOfSubsequenceWidths.java\" />\r\n              <option name=\"titleSlug\" value=\"sum-of-subsequence-widths\" />\r\n            </LeetcodeEditor>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/leetcode/editor.xml b/.idea/leetcode/editor.xml
+--- a/.idea/leetcode/editor.xml	(revision 9ffc439861e1a27bf02df9b69b639991e433e896)
++++ b/.idea/leetcode/editor.xml	(date 1673441880571)
+@@ -168,6 +168,17 @@
+             </LeetcodeEditor>
+           </value>
+         </entry>
++        <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/P2283_CheckIfNumberHasEqualDigitCountAndDigitValue.java">
++          <value>
++            <LeetcodeEditor>
++              <option name="contentPath" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/doc/content/P2283_CheckIfNumberHasEqualDigitCountAndDigitValue.md" />
++              <option name="frontendQuestionId" value="leetcode.cn2283" />
++              <option name="host" value="leetcode.cn" />
++              <option name="path" value="$PROJECT_DIR$/Temp/leetcode/editor/cn/P2283_CheckIfNumberHasEqualDigitCountAndDigitValue.java" />
++              <option name="titleSlug" value="check-if-number-has-equal-digit-count-and-digit-value" />
++            </LeetcodeEditor>
++          </value>
++        </entry>
+         <entry key="$PROJECT_DIR$/Temp/leetcode/editor/cn/P2351_FirstLetterToAppearTwice.java">
+           <value>
+             <LeetcodeEditor>
+Index: .idea/leetcode/statistics.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"LeetcodeEditorStatistics\">\r\n    <option name=\"statistics\">\r\n      <map>\r\n        <entry key=\"leetcode.cn\">\r\n          <value>\r\n            <Statistics>\r\n              <option name=\"easy\" value=\"89\" />\r\n              <option name=\"hard\" value=\"11\" />\r\n              <option name=\"medium\" value=\"91\" />\r\n              <option name=\"questionTotal\" value=\"2909\" />\r\n              <option name=\"solvedTotal\" value=\"191\" />\r\n            </Statistics>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/leetcode/statistics.xml b/.idea/leetcode/statistics.xml
+--- a/.idea/leetcode/statistics.xml	(revision 9ffc439861e1a27bf02df9b69b639991e433e896)
++++ b/.idea/leetcode/statistics.xml	(date 1673444161145)
+@@ -6,11 +6,11 @@
+         <entry key="leetcode.cn">
+           <value>
+             <Statistics>
+-              <option name="easy" value="89" />
+-              <option name="hard" value="11" />
++              <option name="easy" value="97" />
++              <option name="hard" value="12" />
+               <option name="medium" value="91" />
+               <option name="questionTotal" value="2909" />
+-              <option name="solvedTotal" value="191" />
++              <option name="solvedTotal" value="200" />
+             </Statistics>
+           </value>
+         </entry>
